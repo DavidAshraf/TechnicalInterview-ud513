@@ -1,6 +1,6 @@
 __author__ = 'David'
 
-from LinkedList import Stack,Element
+from Collections import Stack,Element
 # Test cases
 # Set up some Elements
 e1 = Element(1)

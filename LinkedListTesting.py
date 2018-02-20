@@ -1,6 +1,6 @@
 __author__ = 'David'
 
-from LinkedList import Element,LinkedList
+from Collections import Element,LinkedList
 
 # Test cases
 # Set up some Elements
@@ -33,3 +33,4 @@ print (ll.get_position(1).value)
 print (ll.get_position(2).value)
 # Should print 3 now
 print (ll.get_position(3).value)
+
